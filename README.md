@@ -1,4 +1,4 @@
-![Overview](.\resources\Overview.jpg)
+![Overview](./resources/Overview.jpg)
 
 ## The setup
 
@@ -36,7 +36,6 @@ The data link layer of MBus uses a packet-based protocol that consists of a head
     - Introduction
     - M-Bus
     - M-Bus => Bulletin
-    
     - Programming => POUs => FB_MBUSKL6781
     - Programming => POUs => General device blocks, elvaco en Schneider Electric
     - Programming => DUTs => Structures => ST_KL6781inData22B, ST_KL6781outData22B en ST_MBUS_Communication
@@ -49,8 +48,8 @@ The data link layer of MBus uses a packet-based protocol that consists of a head
 4.  Beschrijf de ‘ST_KL6781outData22B ’ structure. Wat is de inhoud en waarvoor wordt deze gebruikt?
 5.  Beschrijf de ‘ST_EL6851OutData’ structure. Wat is de inhoud en waarvoor wordt deze gebruikt?
 6.  Beschrijf de ‘ST_MBUS_Communication’ structure. Wat is de inhoud en waarvoor wordt deze gebruikt?
-8.  Beschrijf de aansluitingen en de werking van de Mbus temperature and humidity sensor.
-9.  Beschrijf de aansluitingen en de werking van de Mbus energie meter.
+7.  Beschrijf de aansluitingen en de werking van de Mbus temperature and humidity sensor.
+8.  Beschrijf de aansluitingen en de werking van de Mbus energie meter.
 
 ## Exercises
 
@@ -68,7 +67,7 @@ Programmatie (minimaal vereist om 60% te behalen)
 
 Bijkomende programmatie (Percentage telt enkel indien minimale programmatie bereikt is).
 
-7.	Bereken de maximale spanning, stroom en vermogen over een periode van 10s. Je doet dit natuurlijk aan de maximale sample rate (benoem deze in je code). (15%)
+7.	Bereken de maximale spanning, stroom en vermogen over een periode van x aantal seconden. Toon deze maximale waarden in de visualisatie. Zorg er eveneens voor dat de tijdsduur aanpasbaar is en het resetten van deze maximale waarden mogelijk is via diezelfde visualisatie. (15%)
 8.	Schrijf alle mogelijke data waarden weg naar een CSV file. Geef via de visu aan wat de sample rate is en hoeveel samples er uitgelezen worden. (25%)
 
 ## Questions
