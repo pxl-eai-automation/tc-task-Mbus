@@ -49,7 +49,6 @@ The data link layer of MBus uses a packet-based protocol that consists of a head
 4.  Beschrijf de ‘ST_KL6781outData22B ’ structure. Wat is de inhoud en waarvoor wordt deze gebruikt?
 5.  Beschrijf de ‘ST_EL6851OutData’ structure. Wat is de inhoud en waarvoor wordt deze gebruikt?
 6.  Beschrijf de ‘ST_MBUS_Communication’ structure. Wat is de inhoud en waarvoor wordt deze gebruikt?
-7.  Beschrijf de aansluitingen en de werking van de DMX LED-strip controller.
 8.  Beschrijf de aansluitingen en de werking van de Mbus temperature and humidity sensor.
 9.  Beschrijf de aansluitingen en de werking van de Mbus energie meter.
 
