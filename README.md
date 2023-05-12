@@ -58,17 +58,17 @@ Programmeer de PLC zodat alle toestellen op het M-bus netwerk en hun data zichtb
 Programmatie (minimaal vereist om 60% te behalen)
 
 1. Maak gebruik van de ‘FB_MBUSKL6781’ functieblok voor de communicatie met de KL6781. Koppel de juiste variabelen met de KL6781. Scan vervolgens alle devices op het M-bus netwerk en achterhaal de fabrikant van elk. Zorg dat dit vanuit de visualisatie mogelijk is. (10%)
-
-3. Lees alle mogelijke data-waarden van de Mbus temperature en vochtigheidssensor uit. (10%)
-
-4. Lees alle mogelijke data-waarden van de Mbus energie meter uit. (10%)
-5. Allemaal goed en wel met zo'n kant-en-klare FB's. Probeer hetzelfde voor de temperature en vochtigheidssensor te bereiken aan de hand van de general blocks. Je zal hiervoor de registers moeten raadplegen. (15%)
-6.	Allemaal goed en wel met zo'n kant-en-klare FB's. Probeer hetzelfde voor de energie meter te bereiken aan de hand van de general blocks. Je zal hiervoor de registers moeten raadplegen. (15%)
+2. Lees alle mogelijke data-waarden van de Mbus temperature en vochtigheidssensor uit en toon deze in de visualisatie. (10%)
+3. Lees alle mogelijke data-waarden van de Mbus energie meter uit en toon deze in de visualisatie. (10%)
+4. Allemaal goed en wel met zo'n kant-en-klare FB's. Probeer hetzelfde voor de temperature en vochtigheidssensor te bereiken aan de hand van de general blocks en toon deze in de visualisatie. Je zal hiervoor de registers moeten raadplegen. (15%)
+5.	Allemaal goed en wel met zo'n kant-en-klare FB's. Probeer hetzelfde voor de energie meter te bereiken aan de hand van de general blocks en toon deze in de visualisatie. Je zal hiervoor de registers moeten raadplegen. (15%)
 
 Bijkomende programmatie (Percentage telt enkel indien minimale programmatie bereikt is).
 
-7.	Bereken de maximale spanning, stroom en vermogen over een periode van x aantal seconden. Toon deze maximale waarden in de visualisatie. Zorg er eveneens voor dat de tijdsduur aanpasbaar is en het resetten van deze maximale waarden mogelijk is via diezelfde visualisatie. (15%)
-8.	Schrijf alle mogelijke data waarden weg naar een CSV file. Geef via de visu aan wat de sample rate is en hoeveel samples er uitgelezen worden. (25%)
+6.	Bereken de maximale spanning, stroom en vermogen over een periode van x aantal seconden. Toon deze maximale waarden in de visualisatie. Zorg er eveneens voor dat de tijdsduur aanpasbaar is en het resetten van deze maximale waarden mogelijk is via diezelfde visualisatie. (15%)
+7.	Schrijf alle nuttige data waarden van de Mbus sensoren weg naar een CSV file. Deze moeten tegen een - via de visualisatie - instelbare sample rate toegevoegd worden aan de CSV en getoond worden in de visualisatie. (20%)
+
+
 
 ## Questions
 
