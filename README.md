@@ -65,8 +65,9 @@ Programmatie (minimaal vereist om 60% te behalen)
 
 Bijkomende programmatie (Percentage telt enkel indien minimale programmatie bereikt is).
 
-6.	Bereken de maximale spanning, stroom en vermogen over een periode van x aantal seconden. Toon deze maximale waarden in de visualisatie. Zorg er eveneens voor dat de tijdsduur aanpasbaar is en het resetten van deze maximale waarden mogelijk is via diezelfde visualisatie. (15%)
+6.	Bereken de maximale spanning, stroom en vermogen over een tijdsperiode van x aantal seconden. In de visualisatie moet je de tijdsduur kunnen instellen, de maximale waarden kunnen tonen en de max. waarden resetten via een druktoets. (15%)
 7.	Schrijf alle nuttige data waarden van de Mbus sensoren weg naar een CSV file. Deze moeten tegen een - via de visualisatie - instelbare sample rate toegevoegd worden aan de CSV en getoond worden in de visualisatie. (20%)
+
 
 
 
