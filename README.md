@@ -22,7 +22,7 @@ The data link layer of MBus uses a packet-based protocol that consists of a head
 
 ## Preperations
 
-- Lees de [documentatie van de Mbus temperature and humidity sensor](https://www.elvaco.se/Image/GetDocument/en/247/cma10%20cma11%20quick%20manual%20english.pdf)
+- Lees de [documentatie van de Mbus temperature and humidity sensor](https://www.elvaco.com/en/product/sensors/cma10-indoor-temperaturehumidity-sensor-m-bus--1050131)
 
 - Lees de [documentatie van de Mbus energie meter](https://www.se.com/ww/en/product/A9MEM3135/iem3135-energy-meter-63-a-mbus-1-digital-i-1-digital-o-multitariff-mid/)
 
@@ -66,7 +66,7 @@ Programmatie (minimaal vereist om 60% te behalen)
 Bijkomende programmatie (Percentage telt enkel indien minimale programmatie bereikt is).
 
 6.	Bereken de maximale spanning, stroom en vermogen over een tijdsperiode van x aantal seconden. In de visualisatie moet je de tijdsduur kunnen instellen, de maximale waarden kunnen tonen en de max. waarden resetten via een druktoets. (15%)
-7.	Schrijf alle nuttige data waarden van de Mbus sensoren weg naar een CSV file. Deze moeten tegen een - via de visualisatie - instelbare sample rate toegevoegd worden aan de CSV en getoond worden in de visualisatie. (20%)
+7.	Schrijf alle nuttige data waarden van de Mbus sensoren weg naar een CSV file. Deze moeten tegen een - via de visualisatie - instelbare sample rate toegevoegd worden aan de CSV en getoond worden in de visualisatie. (25%)
 
 
 
